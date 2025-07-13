@@ -13,6 +13,7 @@ the [MIT license](https://opensource.org/license/mit).
 
 - [PlexPurchases](https://github.com/PlexPrison/PlexPurchases) - an extension to Mineplex's purchase system that allows
   quick setup of stores in projects.
+- [ServerReady](https://github.com/PlexPrison/ServerReady) - automatically set games to accept players when all other plugins are finished loading.
 
 ## Contacts
 
